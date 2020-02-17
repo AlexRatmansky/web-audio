@@ -1,16 +1,16 @@
-.knob-container {
+.container {
   background-color: red;
   display: inline-block;
   padding: 20px;
 }
 
-.knob-dial {
+.dial {
   width: 72px;
   height: 72px;
   position: relative;
 }
 
-.knob-grip {
+.grip {
   position: absolute;
   height: 72px;
   width: 72px;
@@ -32,7 +32,7 @@
   }
 }
 
-.knob-label {
+.label {
   margin-top: 15px;
   text-align: center;
 }
