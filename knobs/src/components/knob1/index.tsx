@@ -115,7 +115,7 @@ const KnobGrip: FC<KnobGrip & Div> = ({ rotation, children, ...props }) => (
   <div
     className={style.grip}
     style={{
-      transform: `translate(-50%, -50%) rotate(${rotation}deg)`
+      transform: `translate(-50%, -50%) rotate(${-rotation}deg)`
     }}
     {...props}
   >
