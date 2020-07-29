@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/AlexRatmansky/web-audio/issues"
   },
-  "homepage": "https://github.com/AlexRatmansky/web-audio#readme"
+  "homepage": "https://github.com/AlexRatmansky/web-audio#readme",
+  "dependencies": {
+    "@types/p5": "^0.9.1"
+  }
 }
