@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/AlexRatmansky/web-audio#readme",
   "dependencies": {
-    "@types/p5": "^0.9.1"
+    "@types/p5": "^0.9.1",
+    "p5": "^1.1.9",
+    "tone": "^14.7.39"
   }
 }
